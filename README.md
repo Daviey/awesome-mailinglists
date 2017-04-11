@@ -10,4 +10,27 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/Daviey/awesome-mailinglists/graphs/contributors).
 
+## Unsorted
+
+ - [HN Digest](http://hndigest.com/) - Get the top Hacker News stories in your inbox
+ - [Hacker News Books](http://hackernewsbooks.com/) - Top books mentioned in comments on Hacker News last week or all-time.
+ - [Julie Zhuo's The Looking Glass](http://www.juliezhuo.com/design/mailinglist.html)
+ - [Pointer.io](http://www.pointer.io) - a reading club for developers
+ - [Changelog Weekly](https://changelog.com/weekly) - editorialized take on this week in open source and software development
+ - [Dan Bader's python tricks](https://dbader.org/)
+ - [The New Yorker](https://www.newyorker.com/newsletters)
+ - [Android Weekly](http://androidweekly.net/)
+ - [AndroidDevDigest](https://www.androiddevdigest.com/)
+ - [GitHub Explore](https://github.com/explore/subscribe)
+ - [GET PUT POST](https://tinyletter.com/getputpost) -  newsletter about APIs and the killer apps that developers need to build using them.
+ - [Hacker Newsletter](http://www.hackernewsletter.com/)
+ - [Schneier's Crypto-Gram](https://www.schneier.com/crypto-gram/)
+ - [Changelog](https://changelog.com/)
+ - [JS Weekly](http://javascriptweekly.com/)
+ - [Frontend Focus](http://frontendfocus.co/)
+ - [Pycoder's Weekly](http://pycoders.com/)
+ - [The Exponential](https://www.getrevue.co/profile/azeem) - Great overview of tech impact on politics, economy, people generally etc...
+ - [Tedium](http://tedium.co) - Deep dive on obscure subjects twice a week.
+
+
 
